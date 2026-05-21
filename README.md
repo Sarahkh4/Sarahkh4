@@ -15,12 +15,11 @@
 
 
 
-
-
-
-
 ### Tech Stack
 Python • FastAPI • LangChain • LangGraph • Docker • Redis • Celery • PostgreSQL • PyTorch • Git
+
+
+
 
 ### Currently Exploring
 - Multi-agent orchestration
@@ -31,9 +30,13 @@ Python • FastAPI • LangChain • LangGraph • Docker • Redis • Celery �
 
 
 📫 How to reach me: sarahkhan8040@gmail.com\
+
 🔭 Explore my [Resume](https://drive.google.com/file/d/1BgvVZon_ePXXn-sE2hIPKNkLN-flIExF/view?usp=sharing)\
+
 😄 Pronouns: _She/Her_\
+
 ⚡ Fun fact: _I am a procrastinator + a perfectionist_
+
 <br>
 
 <img alt="Coding"  src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
