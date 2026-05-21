@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sarah 👋
 
-<!--
-**Sarahkh4/Sarahkh4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on:
+- LLM Applications
+- AI Agents
+- Backend AI Systems
+- Machine Learning & Deep Learning
+- Retrieval & Automation Systems
 
-Here are some ideas to get you started:
+### Tech Stack
+Python • FastAPI • LangChain • LangGraph • Docker • Redis • Celery • PostgreSQL • PyTorch • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Exploring
+- Multi-agent orchestration
+- Retrieval-augmented generation
+- Scalable AI backend infrastructure
+- Advanced deep learning architectures
+
+
+
+📫 How to reach me: sarahkhan8040@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun fact: I am a procrastinator + a perfectionist
