@@ -1,11 +1,24 @@
+
+
 # Hi, I'm Sarah 👋
 
-AI Engineer focused on:
-- LLM Applications
-- AI Agents
-- Backend AI Systems
-- Machine Learning & Deep Learning
-- Retrieval & Automation Systems
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300"/>
+
+
+### AI Engineer focused on:
+
+- LLM Applications  
+- AI Agents  
+- Backend AI Systems  
+- Machine Learning & Deep Learning  
+- Retrieval & Automation Systems  
+
+
+
+
+
+
+
 
 ### Tech Stack
 Python • FastAPI • LangChain • LangGraph • Docker • Redis • Celery • PostgreSQL • PyTorch • Git
