@@ -18,6 +18,7 @@ Python • FastAPI • LangChain • LangGraph • Docker • Redis • Celery �
 
 
 
--📫 How to reach me: sarahkhan8040@gmail.com
--😄 Pronouns: She/Her
--⚡ Fun fact: I am a procrastinator + a perfectionist
+📫 How to reach me: sarahkhan8040@gmail.com\
+🔭 Explore my [Resume](https://drive.google.com/file/d/1BgvVZon_ePXXn-sE2hIPKNkLN-flIExF/view?usp=sharing)\
+😄 Pronouns: _She/Her_\
+⚡ Fun fact: _I am a procrastinator + a perfectionist_
