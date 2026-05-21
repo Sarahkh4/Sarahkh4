@@ -13,12 +13,12 @@
 - Retrieval & Automation Systems  
 
 
-
+<br>
 
 ### Tech Stack
 Python • FastAPI • LangChain • LangGraph • Docker • Redis • Celery • PostgreSQL • PyTorch • Git
 
-
+<br>
 
 
 ### Currently Exploring
@@ -27,13 +27,14 @@ Python • FastAPI • LangChain • LangGraph • Docker • Redis • Celery �
 - Scalable AI backend infrastructure
 - Advanced deep learning architectures
 
+<br>
+<br>
 
+📫 How to reach me: sarahkhan8040@gmail.com
 
-📫 How to reach me: sarahkhan8040@gmail.com\
+🔭 Explore my [Resume](https://drive.google.com/file/d/1BgvVZon_ePXXn-sE2hIPKNkLN-flIExF/view?usp=sharing)
 
-🔭 Explore my [Resume](https://drive.google.com/file/d/1BgvVZon_ePXXn-sE2hIPKNkLN-flIExF/view?usp=sharing)\
-
-😄 Pronouns: _She/Her_\
+😄 Pronouns: _She/Her_
 
 ⚡ Fun fact: _I am a procrastinator + a perfectionist_
 
