@@ -1,4 +1,4 @@
-# Hi, I'm Sarah 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A131F7&width=435&lines=Hi%2C+I'm+Sarah.+.+.)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
